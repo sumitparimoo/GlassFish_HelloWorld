@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="GlassFish_HelloWorld:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/GlassFish_HelloWorld_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="GlassFish_HelloWorld/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="GlassFish_HelloWorld" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
